@@ -11,36 +11,36 @@ The core principles of DevOps revolve around Culture, Automation, Lean, Measurem
 
 2. DevOps Lifecycle Stages
 
-Planning
+Planning:
 
 This stage involves defining the project scope, requirements, goals, and metrics. It's where ideas are conceptualized and translated into actionable tasks for the development team.
 
 Tools: Jira, Trello, Confluence
-Development
+Development:
 In this stage, developers write, review, and commit code based on the established plans and requirements. This typically involves using version control systems for collaborative coding.
 
 Tools: Git, GitHub, GitLab, Bitbucket, IDEs (VS Code, IntelliJ IDEA)
-Building
+Building:
 The building stage involves compiling the source code into an executable application or deployable artifact, often with dependencies and libraries bundled together. Automated build tools are commonly used here.
 
 Tools: Jenkins, Maven, Gradle, Azure DevOps, GitLab CI/CD, CircleCI, Bamboo
-Testing
+Testing:
 During testing, the built software is rigorously evaluated to identify and fix defects, ensure it meets quality standards, and verify its functionality against requirements. This can include unit, integration, system, and acceptance testing.
 
 Tools: Selenium, JUnit, TestNG, SonarQube, JMeter
-Release
+Release:
 The release stage involves preparing the software for deployment to production environments. This includes versioning, creating release notes, and getting necessary approvals.
 
 Tools: Jenkins, GitLab CI/CD, CircleCI, Octopus Deploy, Spinnaker
-Deployment
+Deployment:
 In this stage, the released software is pushed to target environments, which could be development, staging, or production servers. Automation is key to ensure consistent and reliable deployments.
 
 Tools: Docker, Kubernetes, Ansible, Chef, Puppet, Terraform
-Operations
+Operations:
 Once deployed, the operations team ensures the software runs smoothly in production, handling infrastructure management, security, and performance. This stage focuses on maintaining the stability and availability of the application.
 
 Tools: Kubernetes, Ansible, Chef, Puppet, Jira Service Management, Opsgenie, PagerDuty
-Monitoring
+Monitoring:
 Continuous monitoring involves observing the application and infrastructure in real-time to collect performance metrics, logs, and alerts. This data provides insights into the system's health and helps proactively identify and resolve issues.
 
 Tools: Prometheus, Grafana, Datadog, Splunk, Nagios, ELK Stack (Elasticsearch, Logstash, Kibana), New Relic
