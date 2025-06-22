@@ -1,5 +1,6 @@
 1. Foundational DevOps Concepts
 Define DevOps
+
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality. It aims to unify development and operations teams, promoting communication, collaboration, and integration.
 DevOps thrives in environments that embrace Agile methodologies. Agile's iterative and incremental development cycles, coupled with its focus on collaboration and customer feedback, align perfectly with the continuous nature of DevOps. DevOps provides the automation and operational efficiency needed to deliver on Agile's promise of rapid, frequent releases.
 
@@ -9,7 +10,9 @@ Briefly explain the core principles
 The core principles of DevOps revolve around Culture, Automation, Lean, Measurement, and Sharing (CALMS). This includes fostering a culture of collaboration, automating repetitive tasks, adopting lean practices to eliminate waste, measuring performance and progress, and sharing knowledge and tools across teams.
 
 2. DevOps Lifecycle Stages
+
 Planning
+
 This stage involves defining the project scope, requirements, goals, and metrics. It's where ideas are conceptualized and translated into actionable tasks for the development team.
 
 Tools: Jira, Trello, Confluence
